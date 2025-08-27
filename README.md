@@ -3,11 +3,12 @@ A hierarchical lightweight attention-enhanced strategy for remote sensing scene 
 
 Python version: 3.10.15
 
-Experiment libraries:
+Experiment libraries (Markdown):
 
 | Libraries        | Version      |
 |------------------|--------------|
 | torch            | 2.1.0+cu121  |
+| torchvision      | 0.16.0+cu121 |
 | transformers     | 4.49.0       |
 | datasets         | 3.3.2        |
 | opencv-python    | 4.10.0.84    |
